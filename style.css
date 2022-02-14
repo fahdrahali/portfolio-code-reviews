@@ -1,6 +1,6 @@
 @import url('https://rsms.me/inter/inter.css');
 
-@media (max-width: 500px) {
+@media all and  (max-width: 500px) {
   .flex-nav ul {
     display: flex;
     list-style: none;
